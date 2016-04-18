@@ -1,3 +1,3 @@
-<h1>Test</h1>
+<h1>Tests</h1>
 
 <i>Test stuff</i>
