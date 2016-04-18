@@ -1,7 +1,8 @@
-Sub inClassMacro1()
+Sub IEEE_Body()
 '
-' TestMacro Macro
-'
+' 
+' This macro formats text to the IEEE double column standard
+' 
 '
     Selection.WholeStory
     Selection.Font.Name = "Times New Roman"
